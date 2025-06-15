@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NandiniSirohi/LC/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/NandiniSirohi/LC/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/NandiniSirohi/LC/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,5 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/NandiniSirohi/LC/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/NandiniSirohi/LC/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NandiniSirohi/LC/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
